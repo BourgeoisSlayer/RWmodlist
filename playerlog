@@ -1,0 +1,1061 @@
+Mono path[0] = 'D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'D:/SteamLibrary/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   27.21.14.5148
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.129 seconds
+<RI> Initializing input.
+
+<RI> Input initialized.
+
+<RI> Initialized touch support.
+
+UnloadTime: 1.230400 ms
+Command line arguments: -savedatafolder=C:\Users\Gamer\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
+RimWorld 1.4.3613 rev641
+Save data folder overridden to C:\Users\Gamer\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
+Mod Hermaphrodite Gene has a dependency (Ludeon.RimWorld.Biotech) with empty display name. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Medieval Medicines 1.4 Medieval Overhaul Edition dependency (DankPyon.Medieval.Overhaul) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21146D570.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E20E0F4000.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21143BCA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211399A20.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211562640.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211570D90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2115535E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2115A2600.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2115BAC10.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2113DC050.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2115C8620.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2115CD630.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2115DB050.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2115DF260.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211623C80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E20D67CD60.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211695010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21169A830.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2116C5A50.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2116E2470.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E20D67E770.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2116F4290.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2116F58A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2117154D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21171F0E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211849010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21184BC20.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2118C2AA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211936010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211959150.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211961760.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21198A6A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21198C2B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21198D7E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2119A9BF0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2119F4950.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211A11B70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211A24990.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211A46EC0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211AC0010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211AD2020.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211BD8860.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211BDAC70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211BE1E80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211BEC2C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211C1A3F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211C42920.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211C49F30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211A9ED50.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211C4C950.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211C51360.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211C5E970.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211C79B90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211C7D5A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211C823B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211C99FE0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211CA93F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211DC2440.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211DC4850.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211DF1E90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211E1AAD0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211E27CE0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211E34CF0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213620080.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211E93010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211E95620.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211E9A640.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211EA1A50.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211EA5460.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211EC2010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E20E0F7C30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E20E0F2BF0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211EC4620.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211EC8630.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211EF2A80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2137F6FD0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211F153D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21391DBF0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21392E600.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211E89F30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213972C10.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211E8BF40.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211F2B210.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211558600.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21397CE30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213985E50.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2139EF010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2139F2A20.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213A08A40.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213A0C850.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213A16660.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211F2CC30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211555DF0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213A25280.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213A27690.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213A2B2A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213AE58C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213AE94D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213BE0F10.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213CD7B30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213DEA160.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213EDE390.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213F533D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213F5B5E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213F74C00.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E213F84420.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E214079250.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E20E0F5410.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21407EE60.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2140AE090.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21411E010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21155AE10.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E214129820.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21412EE40.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E214131050.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E214136460.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E214160E80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E20E0F17E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2140F0190.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21418AEB0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E214197CC0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2141B28E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2141B6AF0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2142D9720.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2143B0750.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21449BD80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2144A3D90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E214563DC0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2145719E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E214573FF0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E214576200.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21457E610.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E214582220.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21458B250.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E214590260.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2145A5680.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21155D620.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2145B22A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2145BF8C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211550DD0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2145CFED0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2145D2AE0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2145D56F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21155FE30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2145DAF10.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2145DFB20.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2145E1730.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2145E5B40.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2151FF4D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2152000E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215206AF0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2145E8D50.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2152D8730.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2152DD540.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215304760.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2153F8D90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2154041A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2154231C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215429BD0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2154373F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215460020.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2154CF020.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2154D8C30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2154DAE40.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2154DF060.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215504680.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211564E50.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2155268A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215557010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215560A20.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215740E60.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21553E780.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2154AABD0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215745070.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215759A90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21575CCA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2157756D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2157772E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215840100.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215846110.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2159F7820.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215A11010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215539740.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215A41A40.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215A4AA50.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215A51860.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215A8A290.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215A8CCA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215AA34C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215AAB0D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215ACA4F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215ACFD10.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215AECD30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215AF3940.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215AFBB50.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215BAFD70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215BEE9B0.dll
+ReflectionTypeLoadException getting types in assembly ZRFAchievements: System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.ModAssemblyHandler.AssemblyIsUsable (System.Reflection.Assembly asm) [0x00000] in <617d4a4b3c1842ffb4eb3fd1337f915c>:0 
+
+Loader exceptions:
+   => System.TypeLoadException: Could not resolve type with token 0100000b (from typeref, class/assembly RimForge.CoilgunShellDef, RimForge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) assembly:RimForge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:RimForge.CoilgunShellDef member:(null) signature:<none>
+   => System.TypeLoadException: Could not resolve type with token 0100000b (from typeref, class/assembly RimForge.CoilgunShellDef, RimForge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) assembly:RimForge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:RimForge.CoilgunShellDef member:(null) signature:<none>
+   => System.TypeLoadException: Could not resolve type with token 0100000b (from typeref, class/assembly RimForge.CoilgunShellDef, RimForge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null)
+   => System.TypeLoadException: Could not resolve type with token 0100000b (from typeref, class/assembly RimForge.CoilgunShellDef, RimForge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null)
+   => System.TypeLoadException: Could not resolve type with token 01000010 (from typeref, class/assembly RimForge.Core, RimForge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215C6C030.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215C92240.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215CCC850.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215CF2060.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215C15DE0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215CFDA70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215D18E80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215D2F890.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215D316A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215E5D4D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215E658E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215E764F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215E98F10.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215EBA130.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215F7E550.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215F9A570.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215F9C780.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211567660.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215FB0F90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215FC47B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215FC9FC0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215FCDBD0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215FD0BE0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215FD35F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215FE5810.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215FE8820.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2160BB2A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215FEB430.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215FED040.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2160BC4B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2160C08C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2160C2ED0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2160E84F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2160F9720.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216107340.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21610D550.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216124B70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216132B80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216135990.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21627E820.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21636D040.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21636E850.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216424280.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216430A90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216521CB0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21661FED0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21663D2F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21663F100.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216646110.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21553BF60.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21664A530.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21667D340.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216680950.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21668BB70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216697D80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21669C590.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21616D290.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2166B93B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2166BB1C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2166ED3E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E215538330.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2166F9000.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2166FBA10.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216702620.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216704A30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216729460.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216730270.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216741E90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216743CA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2167462B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21674A2C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2167594E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21675BAF0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216761100.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216770B20.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21677EF40.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2167ACD50.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2167C3160.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2167C6570.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21132E150.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2167EB580.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21680EBA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2168225C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2168319D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216838BE0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216856C00.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21685B810.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216860620.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21687A020.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21687C230.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E211569E70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2169AC270.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2169C2A80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E2169C4E90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216B1F820.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216C09440.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216C0E450.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216C14260.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216D02090.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216D266A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216D280B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216D5E8C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216D604D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216D7E0F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216A1EE10.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216E36F10.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216E3F920.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216E6A740.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216E71950.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216E89160.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216E90170.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216E9CFA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216EB3DC0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216EBD3E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216FA5800.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E216FC0080.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21104A370.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21754B3B0.dll
+[HugsLib] version 10.0.1
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E217D69A60.dll
+[HugsLib] early-initializing AllowTool
+[VanillaAchievementsExpanded] version 1.4.8315
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21B291010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21B084020.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21B2E6E60.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21B315E70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21B0A9010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21B2A5630.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21B3A0020.dll
+[KB_Prioritize_Research] - patching to allow research prioritizing.
+dubwise.dubscentralheating v1.0.55
+DubsMintMenus v1.3.995
+Dubs Mint Minimap 1.3.787
+Rimatomics 1.7.2500
+1.0.8441 ::
+1.0.8445 ::
+Project RimFactory Core 1.0.0.0 - Harmony patches successful
+Project Rimfactory - added Support for ResearchPowl when using Lite Mode
+QualityBuilder successfully patched Replace Stuff
+<color=#b7ff1c>[RimForge]</color> Hello, world!
+<color=#b7ff1c>[RimForge]</color> Patched 26 methods:
+Void Kill(System.Nullable`1[Verse.DamageInfo], Verse.Hediff),
+System.Collections.Generic.IEnumerable`1[Verse.Gizmo] GetGizmos(),
+Void RebindAllDefOfs(Boolean),
+Void DrawEquipmentAiming(Verse.Thing, UnityEngine.Vector3, Single),
+Void SpawnSetup(Verse.Map, Boolean),
+Boolean ShouldDoNow(),
+UnityEngine.Rect DoInterface(Single, Single, Single, Int32),
+RimWorld.QualityCategory GenerateQualityCreatedByPawn(Verse.Pawn, RimWorld.SkillDef),
+System.Collections.Generic.IEnumerable`1[Verse.IntVec3] get_IngredientStackCells(),
+Boolean get_ShouldBeLitNow(),
+Void DrawDynamicThings(),
+Void StartExplosion(Verse.SoundDef, System.Collections.Generic.List`1[Verse.Thing]),
+System.Collections.Generic.IEnumerable`1[Verse.IntVec3] CellsAdjacentCardinal(Verse.Thing),
+Void GenerateRaidLoot(RimWorld.IncidentParms, Single, System.Collections.Generic.List`1[Verse.Pawn]),
+System.String ToGameStringFromPOV_Worker(Verse.Thing, Boolean),
+UnityEngine.Material MatFrom(Verse.MaterialRequest),
+UnityEngine.Texture2D LoadTexture(RimWorld.IO.VirtualFile),
+Void RenderBrokenDownOverlay(Verse.Thing),
+System.String get_Summary(),
+Boolean PawnSatisfies(Verse.Pawn),
+Void LoadDataFromXmlCustom(System.Xml.XmlNode),
+Void StopTargeting(),
+Void InitializeComps(),
+Void PreApplyDamage(Verse.DamageInfo ByRef, Boolean ByRef),
+Void GainTrait(RimWorld.Trait, Boolean),
+Void FireEvent()
+[CM_Semi_Random_Research] - patching to conditionally hide normal start research button.
+[Interaction Bubbles v2.5] Initialized
+Ugh You Got Me: Trying to patch MentalState_SocialFighting.ShouldStop.get.
+Ugh You Got Me: Patched MentalState_SocialFighting.ShouldStop.get.
+Ugh You Got Me: Trying to patch JobGiver_SocialFighting.TryGiveJob
+Ugh You Got Me: Patched JobGiver_SocialFighting.TryGiveJob.
+[WhatsMissing] Patched Dialog_BillConfig
+Loaded What's That Mod.
+Rimefeller 1.2.1227
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21D560050.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21D578A90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21D587AB0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21D5948C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001E21D59DED0.dll
+GAGARIN: <color=green>StartUpStarted called!</color>
+GAGARIN: <color=green>Cache found</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=yello>Cache disabled from</color>
+StartUpStarted at offset 0 in file:line:column <filename unknown>:0:0
+InternalInvoke at offset 0 in file:line:column <filename unknown>:0:0
+Invoke at offset 0 in file:line:column <filename unknown>:0:0
+Invoke at offset 0 in file:line:column <filename unknown>:0:0
+<GetActions>b__3 at offset 0 in file:line:column <filename unknown>:0:0
+.ctor at offset 0 in file:line:column <filename unknown>:0:0
+InternalInvoke at offset 0 in file:line:column <filename unknown>:0:0
+InternalInvoke at offset 0 in file:line:column <filename unknown>:0:0
+DoInvoke at offset 0 in file:line:column <filename unknown>:0:0
+Invoke at offset 0 in file:line:column <filename unknown>:0:0
+CreateInstanceImpl at offset 0 in file:line:column <filename unknown>:0:0
+CreateInstance at offset 0 in file:line:column <filename unknown>:0:0
+CreateInstance at offset 0 in file:line:column <filename unknown>:0:0
+CreateModClasses at offset 0 in file:line:column <filename unknown>:0:0
+LoadAllActiveMods at offset 0 in file:line:column <filename unknown>:0:0
+DoPlayLoad at offset 0 in file:line:column <filename unknown>:0:0
+LoadAllPlayData at offset 0 in file:line:column <filename unknown>:0:0
+<Start>b__6_1 at offset 0 in file:line:column <filename unknown>:0:0
+RunEventFromAnotherThread at offset 0 in file:line:column <filename unknown>:0:0
+<UpdateCurrentAsynchronousEvent>b__27_0 at offset 0 in file:line:column <filename unknown>:0:0
+ThreadStart_Context at offset 0 in file:line:column <filename unknown>:0:0
+RunInternal at offset 0 in file:line:column <filename unknown>:0:0
+Run at offset 0 in file:line:column <filename unknown>:0:0
+Run at offset 0 in file:line:column <filename unknown>:0:0
+ThreadStart at offset 0 in file:line:column <filename unknown>:0:0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: Mod list changed! Deleting cache 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=green>Cache not found or got purged!</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.3613:1/18/2023 12:00:00 AM:1.4.3613 rev641
+b.3613:1/18/2023 12:00:00 AM:1.4.3613 rev641
+b.3613:1/18/2023 12:00:00 AM:1.4.3613 rev641
+b.3613:1/18/2023 12:00:00 AM:1.4.3613 rev641
+ROCKETMAN:No more RocketMan <color=gray>"Log spam"</color>...
+I hope you're fucking satisfied.
+GAGARIN: <color=white>LoadModXML_Profiler</color> took <color=red>6.452</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: CombineIntoUnifiedXML has <color=red>Context.IsUsingCache=False</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>CombineIntoUnifiedXML_Profiler</color> took <color=red>2.707</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>TKeySystem.Parse</color> took <color=red>0.006</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+LWM Deep Storage: activated compatibility patch for Vanilla Cooking Expanded
+[Weapon Mastery (Continued) - Start of stack trace]
+Verse.PatchOperationAddModExtension(xpath="Defs/ThingDef[defName="UncompromisingTribalFaction_FireBow"]"): Failed to find a node with the given xpath
+Verse.PatchOperationSequence: Error in the operation at position=1
+Verse.PatchOperationFindMod([Fuu] Uncompromising Tribal Faction): Error in <match>
+[End of stack trace]
+The top operation is the one that failed, the ones below it are the parents
+Source file: D:\SteamLibrary\steamapps\workshop\content\294100\2898431155\1.4\Patches\FuuUncompromisingTribalFaction.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ApplyPatches_Profiler</color> took <color=red>52.982</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>1.974</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KB_Prioritize_Research] - patching to allow research prioritizing.
+Tried to use an uninitialized DefOf of type DamageDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) Debug info: DirectXmlToObject is currently instantiating an object of type Fortification.AlongWayDamage_CompProperties 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed .5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed .5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed .5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed .5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed .5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed .5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed .5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed .5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed .5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed .5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named RimForge.Achievements.KillWithWeaponTracker from node <tracker Class="RimForge.Achievements.KillWithWeaponTracker"><weaponDef>RF_VirtuousTreaty</weaponDef><raceDef>Human</raceDef><instigatorFactionDefs><li>PlayerColony</li><li>PlayerTribe</li></instigatorFactionDefs><count>1</count></tracker> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Cannot create an abstract class 'AchievementsExpanded.TrackerBase'.
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00001] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x00bb1] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named RimForge.Achievements.KillWithWeaponTracker from node <tracker Class="RimForge.Achievements.KillWithWeaponTracker"><weaponDef>RF_VirtuousTreaty</weaponDef><raceDef>Human</raceDef><instigatorFactionDefs><li>PlayerColony</li><li>PlayerTribe</li></instigatorFactionDefs><count>50</count></tracker> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Cannot create an abstract class 'AchievementsExpanded.TrackerBase'.
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00001] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x00bb1] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named RimForge.Achievements.KillWithWeaponTracker from node <tracker Class="RimForge.Achievements.KillWithWeaponTracker"><weaponDef>RF_GaeBulg</weaponDef><raceDef>Human</raceDef><instigatorFactionDefs><li>PlayerColony</li><li>PlayerTribe</li></instigatorFactionDefs><count>1</count></tracker> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Cannot create an abstract class 'AchievementsExpanded.TrackerBase'.
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00001] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x00bb1] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named RimForge.Achievements.KillWithWeaponTracker from node <tracker Class="RimForge.Achievements.KillWithWeaponTracker"><weaponDef>RF_GaeBulg</weaponDef><raceDef>Human</raceDef><instigatorFactionDefs><li>PlayerColony</li><li>PlayerTribe</li></instigatorFactionDefs><count>50</count></tracker> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Cannot create an abstract class 'AchievementsExpanded.TrackerBase'.
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00001] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x00bb1] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named RimForge.Achievements.CoilgunDepthTracker from node <tracker Class="RimForge.Achievements.CoilgunDepthTracker"><minDepth>20</minDepth></tracker> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Cannot create an abstract class 'AchievementsExpanded.TrackerBase'.
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00001] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x00bb1] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named RimForge.Achievements.CoilgunMultikillTracker from node <tracker Class="RimForge.Achievements.CoilgunMultikillTracker"><minKills>5</minKills><exceptShell>RF_CoilgunShellHE</exceptShell></tracker> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Cannot create an abstract class 'AchievementsExpanded.TrackerBase'.
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00001] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x00bb1] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named RimForge.Achievements.CoilgunExplosiveTracker from node <tracker Class="RimForge.Achievements.CoilgunExplosiveTracker"><minKills>10</minKills></tracker> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Cannot create an abstract class 'AchievementsExpanded.TrackerBase'.
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00001] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x00bb1] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named RimForge.Achievements.CoilgunDamageTracker from node <tracker Class="RimForge.Achievements.CoilgunDamageTracker"><minKills>1</minKills><minDamage>5000.01</minDamage></tracker> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Cannot create an abstract class 'AchievementsExpanded.TrackerBase'.
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00001] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x00bb1] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named RimForge.Achievements.CoilgunAnyKillTracker from node <tracker Class="RimForge.Achievements.CoilgunAnyKillTracker"><count>200</count></tracker> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Cannot create an abstract class 'AchievementsExpanded.TrackerBase'.
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00001] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x00bb1] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named RimForge.Achievements.ItemCraftTrackerWithCount from node <tracker Class="RimForge.Achievements.ItemCraftTrackerWithCount"><def>RF_Bronze</def><count>50</count></tracker> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Cannot create an abstract class 'AchievementsExpanded.TrackerBase'.
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00001] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x00bb1] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named RimForge.Achievements.ItemCraftTrackerWithCount from node <tracker Class="RimForge.Achievements.ItemCraftTrackerWithCount"><def>RF_Adamantium</def><count>50</count></tracker> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Cannot create an abstract class 'AchievementsExpanded.TrackerBase'.
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00001] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x00bb1] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named RimForge.Achievements.GenericEventTracker from node <tracker Class="RimForge.Achievements.GenericEventTracker"><trigger>CoilsFire</trigger></tracker> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Cannot create an abstract class 'AchievementsExpanded.TrackerBase'.
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00001] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x00bb1] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named RimForge.Achievements.GenericEventTracker from node <tracker Class="RimForge.Achievements.GenericEventTracker"><trigger>DroneAntimatter</trigger></tracker> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Cannot create an abstract class 'AchievementsExpanded.TrackerBase'.
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00001] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x00bb1] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named RimForge.Achievements.GenericEventTracker from node <tracker Class="RimForge.Achievements.GenericEventTracker"><trigger>DroneAntimatterFull</trigger></tracker> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Cannot create an abstract class 'AchievementsExpanded.TrackerBase'.
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00001] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x00bb1] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named RimForge.Achievements.GenericEventTracker from node <tracker Class="RimForge.Achievements.GenericEventTracker"><trigger>RitualPerformed</trigger></tracker> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Cannot create an abstract class 'AchievementsExpanded.TrackerBase'.
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00001] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x00bb1] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named RimForge.Achievements.GenericEventTracker from node <tracker Class="RimForge.Achievements.GenericEventTracker"><trigger>Ritual50ChanceFailure</trigger></tracker> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Cannot create an abstract class 'AchievementsExpanded.TrackerBase'.
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00001] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x00bb1] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named RimForge.Achievements.GenericEventTracker from node <tracker Class="RimForge.Achievements.GenericEventTracker"><trigger>RitualFailure</trigger></tracker> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Cannot create an abstract class 'AchievementsExpanded.TrackerBase'.
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00001] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x00bb1] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named RimForge.Achievements.ItemCraftMultiple from node <tracker Class="RimForge.Achievements.ItemCraftMultiple"><count>1</count><quality>Masterwork</quality><toCraft><li>RF_StableRifle</li><li>RF_StablePistol</li></toCraft></tracker> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Cannot create an abstract class 'AchievementsExpanded.TrackerBase'.
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x005ad] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00001] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0 
+  at XmlExtensions.CustomXmlLoader.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x00bb1] in <04c0fccd4e854a7aaf17e79a9e26bc66>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <soundFlyBy>SoundDef</soundFlyBy> doesn't correspond to any field in type ThingDef. Context: <ThingDef ParentName="BomberSkyfallerBase"><category>Ethereal</category><useHitPoints>false</useHitPoints><drawerType>RealtimeOnly</drawerType><thingClass>SRTS.SRTSBombing</thingClass><drawOffscreen>true</drawOffscreen><tickerType>Normal</tickerType><altitudeLayer>Skyfaller</altitudeLayer><skyfaller><speed>0.85</speed><movementType>ConstantSpeed</movementType><shadow>Things/Skyfaller/SkyfallerShadowDropPod</shadow><shadowSize>(6,6)</shadowSize><anticipationSound>DropPod_Fall</anticipationSound><anticipationSoundTicks>100</anticipationSoundTicks><motesPerCell>0</motesPerCell></skyfaller><defName>BuildableAerodrone_BomberRun</defName><label>Aerodrone Bombing</label><graphicData><texPath>SRTS/Aerodrone</texPath><graphicClass>Graphic_Multi</graphicClass><shaderType>CutoutFlying</shaderType><drawSize>4</drawSize></graphicData><soundFlyBy>SoundDef</soundFlyBy></ThingDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named WeaponUtility.ProjectileMissile 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 2.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 3.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.3613:1/18/2023 12:00:00 AM:1.4.3613 rev641
+GAGARIN: <color=white>Cache created!</color> creating cache took <color=green>2 seconds</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ParseAndProcessXML_Profiler</color> took <color=red>41.837</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Weapon Mastery (Continued)] Patch operation Verse.PatchOperationFindMod([Fuu] Uncompromising Tribal Faction) failed
+file: D:\SteamLibrary\steamapps\workshop\content\294100\2898431155\1.4\Patches\FuuUncompromisingTribalFaction.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ClearCachedPatches_Profiler</color> took <color=red>0.002</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.XenotypeDef named BS_Corrupterd_Titan found to give to RimWorld.XenotypeChance RimWorld.XenotypeChance 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named ToxicSensitivity found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in ST_AntiTankMissleLauncher: verb 0: has incorrect forcedMiss settings; explosive projectiles and only explosive projectiles should have forced miss enabled 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in ST_AntiTankMissleLauncher: verb 0: has incorrect forcedMiss settings; explosive projectiles and only explosive projectiles should have forced miss enabled 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in ST_AntiTankMissile: has null thingClass. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in ST_AntiTankMissile: has null thingClass. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#b7ff1c>[RimForge]</color> Texture D:\SteamLibrary\steamapps\workshop\content\294100\2505778174\Textures\RF\Buildings\PowerPoleCable.png was loaded with no mipmaps, bilinear.
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>1.975</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Quarry:: Total 9 quarryable terrain found, processed: Sandstone, Granite, Limestone, Slate, Marble, Basalt, Shale, Siltstone, Schist
+[Vanilla Furniture Expanded - Architect] Activating Replace Stuff compatibility patch
+TBnRE: ResearchProjectDef named UT_Hacking was not found. Were defs changed somehow? (Not an error, probably, just special rules).
+[RimHUD v1.11.3] Initialized
+startIndex: 28
+endIndex: 36
+Start: newobj System.Void System.Text.StringBuilder::.ctor()
+End:callvirt virtual System.String System.Object::ToString()
+Start: stloc.1 NULL
+End:br.s Label4
+Texture Urn has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture Urn has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture AnimalSleepBox has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture AnimalSleepBox has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture Stool_north has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture Stool_east has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture Stool_north has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture Stool_east has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture Stool_north has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture Stool_east has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture Stool_north has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture Stool_east has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture EndTable_north has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture EndTable_east has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture EndTable_south has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture EndTable_east has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture EndTable_north has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture EndTable_east has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture EndTable_south has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture EndTable_east has dimensions of 128 x 128, but its mask has 64 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture Dresser_north has dimensions of 256 x 128, but its mask has 128 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture Dresser_east has dimensions of 128 x 256, but its mask has 64 x 128. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture Dresser_south has dimensions of 256 x 128, but its mask has 128 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture Dresser_east has dimensions of 128 x 256, but its mask has 64 x 128. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture Dresser_north has dimensions of 256 x 128, but its mask has 128 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture Dresser_east has dimensions of 128 x 256, but its mask has 64 x 128. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture Dresser_south has dimensions of 256 x 128, but its mask has 128 x 64. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture Dresser_east has dimensions of 128 x 256, but its mask has 64 x 128. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture ToolCabinet_east has dimensions of 64 x 128, but its mask has 128 x 256. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture ToolCabinet_south has dimensions of 128 x 64, but its mask has 256 x 128. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture ToolCabinet_east has dimensions of 64 x 128, but its mask has 128 x 256. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Texture ToolCabinet_south has dimensions of 128 x 64, but its mask has 256 x 128. This is not supported, texture will be excluded from atlas 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>1.975</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Translation data for language English has 154 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Cherry Picker] The database was processed in 00.52918 seconds and the following defs were removed: 
+ - TraderKindDef/GR_Outlander_CaravanTrader, 
+ - TraderKindDef/GR_OrbitalTrader, 
+ - ThingDef/VCE_Cassava, 
+ - ThingDef/VCE_SweetPotato, 
+ - ThingDef/VCE_Radish, 
+ - ThingDef/VCE_Buckwheat, 
+ - ThingDef/VCE_Peanut, 
+ - ThingDef/VCE_PeanutSecondary, 
+ - ThingDef/VCE_Sunflower, 
+ - ThingDef/VCE_Okra, 
+ - ThingDef/VCE_Beans, 
+ - ThingDef/VCE_Chickpea, 
+ - ThingDef/VCE_BellPepper, 
+ - ThingDef/VCE_YellowBellPepper
+LWM Update: stable(ish) 1.4
+LWM.DeepStorage: Making Shelf, ShelfSmall, Hopper, AncientStove, AG_AncientShelf, VFEA_SuperNaniteContainment, QRY_Platform, VFEM_HeavyHopper, VFES_AmmoCrate, Jecrell_StoneShelf, Shelf_WeaponRack, VFE_Plinth, Shelf_RepairRack, ChemfuelHopper, ChemfuelSiphon, RefineryLoadingBay, VCHE_ChemfuelTap, VCHE_ChemfuelDrain, VCHE_DeepchemTap, VCHE_DeepchemDrain into Deep Storage
+AlphaMemes Transpiler on Ideo:ExposeData could not find hook 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[XML Extensions] Initialized 2 SettingsMenuDef(s) and found 136 unused key(s) from 3 mod(s)
+[XML Extensions] 6298 total patches run in 52036ms, 1 failed
+Biotech Expansion - Core Loaded!
+Biotech Expansion - Mammalia Loaded!
+Biotech Expansion - Mythic Loaded!
+[CombatPsycasts] Done intialization
+Locks: Doors expanded not found 
+Locks: SoS2 not found 
+[WhatsMissing] Patched Dialog_BillConfig
+Enabled Prison Labor v1.4.5
+[PL] Found hospitality mod
+[PL] Hospitality mod patched
+[PL] CleaningArea patched
+[PL] CashRegistry patched
+[PL] Quarry patched
+DeepRim: Adding Harmony patch 
+Dreamer's Dreams: successfully loaded 100 dreams.
+Dreamer's Dreams: successfully loaded 10 dream tags.
+DEBUG: Failed to find method to patch (Universum.Utilities.Caching_Handler:spacesuit_protection). This probably just means you're not running Universum. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[LifeSupport] found DeathRattle
+[INFO][LitterBT] - Litter Biotech started successfully.
+[TrueTerrainColors v1.11] Loaded cached true colors for 1312 terrain defs from file.
+MasksWithHats found no patches for CanWearTogether
+MasksWithHats found patches for DrawBodyApparel:
+MasksWithHats found patches for DrawHeadHair:
+[MasksWithHats] DrawHeadHair Transpiler beginning
+found if statement for copy
+Inserting check for FaceCover at line 680
+[MasksWithHats] DrawHeadHair Transpiler succeeded
+[MasksWithHats] MatsBodyBaseAt Transpiler beginning
+found if statement for copy
+[MasksWithHats] MatsBodyBaseAt Transpiler succeeded
+MasksWithHats: Patching finished
+Mixed Stone Blocks loaded and patched.
+MMP: Android Tiers not detected
+MMP: Smart Medicine not detected
+Adding Basegame medsList
+Adding mod medicines
+Detected mod medicine medicinal cactipine quill:0.6
+Detected mod medicine basic medicine:0.8
+Detected mod medicine toxiroot medicine:1
+Setting up textures
+Sorted meds list: 
+Herbal medicine
+Medicinal cactipine quill
+Basic medicine
+Medicine
+Toxiroot medicine
+Glitterworld medicine
+Patching Mod Medicines...
+MMP: Pharmacist not detected
+[ModularWeapons] Now active
+[ModularWeapons] Harmony patch complete!
+Sinnamon loaded!
+[KB_Prioritize_Research] - patching to allow research prioritizing.
+[DSGUI] Ready.
+PickUpAndHaul v0.1.3.2⅔ welcomes you to RimWorld with pointless logspam.
+<color=#b7ff1c>[RimForge]</color> Starting def processing...
+<color=#b7ff1c>[RimForge]</color> There were a total of 5 alloy defs (Bronze: AlloyDef RF_BronzeAlloy 'Make bronze')
+<color=#b7ff1c>[RimForge]</color> For reference there are 161 damage defs loaded.
+[RimForge] Tried to add equivalent resources [Expanded Materials - Metals] Tin -> [Expanded Materials - Metals] Tin. Invalid. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RimForge] Tried to add equivalent resources [Expanded Materials - Metals] Copper -> [Expanded Materials - Metals] Copper. Invalid. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
